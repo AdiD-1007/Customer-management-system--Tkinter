@@ -1,1 +1,1 @@
-# Customer-management-system--Tkinter
+# Employee management system
