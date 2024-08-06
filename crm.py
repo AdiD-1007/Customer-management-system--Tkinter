@@ -95,7 +95,7 @@ def lookup_record_by_name():
     name_button.pack(padx=20,pady=20 )
 
 
-# DATABASE KA KAM
+# DATABASe's WORK
 conn=sqlite3.connect("crm.db")
 curr=conn.cursor()
 curr.execute("""
